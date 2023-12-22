@@ -1,3 +1,5 @@
+# Committing the file to the git
+
 import random
 
 def deal_card():
