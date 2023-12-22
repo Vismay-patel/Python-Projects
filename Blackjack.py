@@ -1,4 +1,4 @@
-# Committing the file to the git
+# Updated code
 
 import random
 
